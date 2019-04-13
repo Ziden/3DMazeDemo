@@ -1,4 +1,7 @@
-three.js webpack (setup based on [vue webpack template](https://github.com/vuejs-templates/webpack))
+## Exploring WebGL
+
+A simple 3D maze generator using WebGL.
+Contains lightning, random maze based on Rooms (Kinda of rpg maze)
 
 ## How to install
 
