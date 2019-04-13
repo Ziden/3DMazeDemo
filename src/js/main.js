@@ -4,7 +4,7 @@ import shaderFrag from 'shaders/custom.frag'
 import Memory from './memory.js';
 import DungeonRenderer from './map/generator/dungeonrender.js';
 import MapControl from './map/mapControl.js';
-import LightBake from './shaders/lightbake.js';
+//import LightBake from './shaders/lightbake.js';
 import Stats from './util/stats.js';
 import PlayerControl from './controls/PlayerControl.js';
 import PointerLock from './pointerLock.js';

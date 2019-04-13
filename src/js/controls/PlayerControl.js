@@ -20,7 +20,7 @@ class PlayerControl {
     this.getTileInnerPosition = this.getTileInnerPosition.bind(this);
 
     this.prevTime = performance.now();
-    this.speed = 400;
+    this.speed = 900;
     this.moveForward = false;
     this.moveBackward = false;
     this.moveLeft = false;
